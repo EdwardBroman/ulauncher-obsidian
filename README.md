@@ -1,3 +1,6 @@
+# Warning! I'm just testing something. The repo will propably stay unchanged.
+
+
 # Obsidian Ulauncher extension
 
 ![Screenshot](screenshot.png)
